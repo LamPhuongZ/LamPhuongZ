@@ -10,7 +10,21 @@ I am a frontend developer
 * ✉️  You can contact me at [lamphuong024@gmail.com](mailto:lamphuong024@gmail.com)
 * 🧠  I'm learning Javascript, React, Next
 
-### Skills
+
+### 🎨 Front-End Development
+HTML5 • CSS3 • Sass • Tailwind CSS • Bootstrap • JavaScript • TypeScript • React • Next.js • Vite
+
+### ⚙️ Back-End Development
+Node.js • Express.js • NestJS
+
+### 🗄️ Database
+MySQL
+
+### 🛠️ Tools & Design
+Git • VS Code • Sublime Text • Figma • Adobe Illustrator
+
+### 💻 Other Languages
+C • C#
 
 
 <p align="left">
